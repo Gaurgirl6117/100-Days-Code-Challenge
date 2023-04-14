@@ -1,1 +1,6 @@
-# 100-Days-Code-Challenge
+
+# 100 Days of < /CODING>
+
+Starting from: 14 April, 2023
+
+
