@@ -1,0 +1,15 @@
+# Github: Gaurgirl6117
+# DAY 3 of DAY 100
+# Kth smallest element - GeeksorGeeks
+# https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1
+
+class Solution:
+    def kthSmallest(self,arr, l, r, k):
+        '''
+        arr : given array
+        l : starting index of the array i.e 0
+        r : ending index of the array i.e size-1
+        k : find kth smallest element and return using this function
+        '''
+        arr.sort()
+        return arr[k-1]
