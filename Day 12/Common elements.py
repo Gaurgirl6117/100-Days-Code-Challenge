@@ -1,5 +1,5 @@
 # Github: Gaurgirl6117
-# DAY 11 of DAY 100
+# DAY 12 of DAY 100
 # Common elements - GeeksorGeeks
 # https://practice.geeksforgeeks.org/problems/common-elements1132/1
 
